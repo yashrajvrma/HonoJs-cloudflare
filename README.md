@@ -8,5 +8,5 @@ npm run dev - to run in local environment
 ```
 
 ```
-npm run deploy - to deploy the server
+npm run deploy - to deploy your hono app on the cloudflare workers
 ```
